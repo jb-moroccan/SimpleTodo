@@ -1,6 +1,3 @@
-# SimpleTodo
-Simple Todo app for CodePath
-
 # Project 0 - SimpleTodo
 
 SimpleTodo is an android app that allows building a todo list and basic todo items management functionality including adding new items and deleting an existing item.
